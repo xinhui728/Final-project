@@ -21,7 +21,7 @@ router.get('/', function(req, res) {
 router.get('/about', function(req, res) {
   res.send(
     '<h1> About xinhui </h1>'+
-    '\n <img src="https://www.omgtw.com/upload/article/original/be134fac90625546754962aeef34925c.jpg" height="60%">'
+    '\n <img src="https://www.skipprichard.com/wp-content/uploads/2020/01/kate-stone-matheson-uy5t-CJuIK4-unsplash-1080x675.jpg" height="60%">'
     );
 });
 
